@@ -1,3 +1,6 @@
+# Jupiter Notebooks 
+notebook
+
 # Data Manipulation
 pandas
 numpy
