@@ -52,8 +52,8 @@ To run this project locally, clone the repository using [Git](https://git-scm.co
 
 ```bash
 # bash code
-git clone [https://github.com/drh-bme/IBM_APPLIED_DATA_SCIENCE_CAPSTONE.git](https://github.com/drh-bme/IBM_APPLIED_DATA_SCIENCE_CAPSTONE.git)
-cd IBM_APPLIED_DATA_SCIENCE_CAPSTONE
+git clone https://github.com/drh-bme/IBM_Applied_Data_Science_Capstone/edit/main/README.md
+cd IBM_Applied_Data_Science_Capstone
 pip install -r requirements.txt
 ```
 
