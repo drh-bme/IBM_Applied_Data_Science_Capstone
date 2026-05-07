@@ -59,6 +59,7 @@ python -m notebook Master_Notebook.ipynb
 ```
 
 ### External References
-[SpaceX API](https://docs.spacexdata.com/#5fc4c846-c373-43df-a10a-e9faf80a8b0a) 
+[SpaceX API](https://docs.spacexdata.com/#5fc4c846-c373-43df-a10a-e9faf80a8b0a)
+[Wikipedia SpaceX Launches page](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
 __________________________________________________________________________________________________________
 _This project was completed as the final requirement for the IBM Data Science Professional Certificate._
