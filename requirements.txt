@@ -1,4 +1,4 @@
-# Jupiter Notebooks 
+# Jupyter Notebooks 
 notebook
 
 # Data Manipulation
