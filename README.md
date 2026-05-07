@@ -42,8 +42,9 @@ All models achieved a test accuracy of approximately 83.33%. Due to the small te
 
 ### Repository Structure
 
+* Data/: CSV datasets used for training and testing.
+* Images/: Some images from the dashboard, the EDA with visualization, and maps generated with follium.
 * Master_Notebook.ipynb: The complete end-to-end technical implementation.  
-* Spacex.csv: CSV datasets used for training and testing.
 * requirements.txt: The complete list of libraries used in this project.
 * README.md: Project summary and presentation.
 
