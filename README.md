@@ -55,7 +55,7 @@ To run this project locally, clone the repository using [Git](https://git-scm.co
 git clone https://github.com/drh-bme/IBM_Applied_Data_Science_Capstone.git
 cd IBM_Applied_Data_Science_Capstone
 pip install -r requirements.txt
-jupyter notebook Master_Notebook.ipynb
+python -m notebook Master_Notebook.ipynb
 ```
 
 ### External References
